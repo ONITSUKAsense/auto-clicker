@@ -1,0 +1,17 @@
+# Build output
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# Virtual env
+venv/
+.venv/
